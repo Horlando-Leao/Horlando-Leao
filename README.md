@@ -10,7 +10,7 @@ Estou nessa trilha de aprendizagem para ser um desenvolvedor a pouco tempo, mas 
 - 🌱 Atualmente estou aprendendo Java e lendo PEPs do Python.
 - 💬 Pergunte-me sobre qualquer coisa?
 - 📫 Como chegar até mim: horlandoleao8@gmail.com.
-- ⚡ Curiosidade: 
+- ⚡ Curiosidades: 
   - Gosto de 🛹 Skate street, mas parei para evitar acidentes 😂.
   - Sou apaixonado por Cosmologia 🕳️.
   - Prefiro prototipar com Python (Plug and Play).
