@@ -14,10 +14,12 @@ Estou nessa trilha de aprendizagem para ser um desenvolvedor a pouco tempo, mas 
   - Gosto de 🛹 Skate street, mas parei para evitar acidentes 😂.
   - Sou apaixonado por Cosmologia 🕳️.
   - Prefiro prototipar com Python (Plug and Play).
+  - `` `json
+   código para colorir
+`` `
   - Buscando vaga de junior em fábricas de Softwares.
   - E amo jogar 🕹️ combates aéreos ✈️ ,navais 🚢 e mekas 🤖 e estratégia ♟️.
 
-<span style="color:blue">some *blue* text</span>.
 Tenho dois repositórios que considero os mais legais:
 
  * https://github.com/Horlando-Leao/dangerousSceneIdentification 👁️
