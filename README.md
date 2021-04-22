@@ -15,7 +15,7 @@ Estou nessa trilha de aprendizagem para ser um desenvolvedor a pouco tempo, mas 
   - Sou apaixonado por Cosmologia 🕳️.
   - Prefiro prototipar com Python (Plug and Play).
   - Buscando vaga de junior em fábricas de Softwares.
-  - E amo jogar 🕹️ combates aéreos ✈️ ,navais 🚢 e mekas 🤖 e estratégia .
+  - E amo jogar 🕹️ combates aéreos ✈️ ,navais 🚢 e mekas 🤖 e estratégia ♟️.
 
 Tenho dois repositórios que considero os mais legais:
 
