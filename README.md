@@ -14,10 +14,7 @@ Estou nessa trilha de aprendizagem para ser um desenvolvedor a pouco tempo, mas 
   - Gosto de 🛹 Skate street, mas parei para evitar acidentes 😂.
   - Sou apaixonado por Cosmologia 🕳️.
   - Prefiro prototipar com Python (Plug and Play).
-  - ``json
-   {"Buscando":"vaga de junior em fábricas de Softwares"}
-``
-  - Buscando vaga de junior em fábricas de Softwares.
+  - Buscando vaga de junior em fábricas de Softwares :flushed:.
   - E amo jogar 🕹️ combates aéreos ✈️ ,navais 🚢 e mekas 🤖 e estratégia ♟️.
 
 Tenho dois repositórios que considero os mais legais:
