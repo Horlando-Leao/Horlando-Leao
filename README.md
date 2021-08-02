@@ -23,7 +23,7 @@
       <li>🔭 Atualmente, estou estagiando.</li> 
       <li>🌱 Atualmente estou aprendendo Java, Fazendo Bootcamps e lendo PEPs do Python.</li> 
       <li>💬 Pergunte-me sobre qualquer coisa!</li> 
-      <li>📫 Como chegar até mim: horlandoleao8@gmail.com.</li>
+      <li>📫 Como chegar até mim: horlandojcleao.developer@gmail.com.</li>
       <li>⚡ Curiosidades:</li> 
       <ul>
         <li>Gosto de 🛹 Skate street, mas parei para evitar acidentes 😂.</li>
