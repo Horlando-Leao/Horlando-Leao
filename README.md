@@ -11,7 +11,7 @@
       Olá caro visitante 👋
     </h1> 
     <h2 class="text-primary">
-      Me chamo Horlando e espero que esteja tudo bem com você nessa pandemia, <span class="text-warning">use mascará 😷!</span>  
+      Me chamo Horlando e espero que esteja tudo bem com você nessa pandemia, <span class="text-warning">use mascará 😷 e se vacine :syringe: !</span>  
     </h2>
     <div class="text-info minha-descricao"> 
       Sou universitário em Análise e Desenvolvimento de Sistemas e estagiário de Desenvolvimento na Di2win <br/>
