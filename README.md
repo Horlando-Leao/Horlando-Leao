@@ -14,7 +14,7 @@
       Me chamo Horlando e espero que esteja tudo bem com você nessa pandemia, <span class="text-warning">use mascará 😷 e se vacine :syringe: !</span>  
     </h2>
     <div class="text-info minha-descricao"> 
-      Sou universitário em Análise e Desenvolvimento de Sistemas e estagiário de Desenvolvimento na Di2win <br/>
+      Sou formando em Análise e Desenvolvimento de Sistemas e estagiário de Desenvolvimento na Di2win <br/>
       Estou nessa trilha de aprendizagem para ser um desenvolvedor a pouco tempo, mas muito entusiasmado, estou fazendo coisas que antes achava impossível, como por exemplo: criar uma arquitetura, entender padrões de projetos e fazer coisinhas se bulirem 😂 😂 😂 .
       <br/><br/>
     </div>
