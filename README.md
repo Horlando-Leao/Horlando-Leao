@@ -11,33 +11,23 @@
       Olá caro visitante 👋
     </h1> 
     <h2 class="text-primary">
-      Me chamo Horlando e espero que esteja tudo bem com você nessa pandemia, <span class="text-warning">use mascará 😷 e se vacine :syringe: !</span>  
+      Me chamo Horlando e espero que esteja tudo bem com você!
     </h2>
     <div class="text-info minha-descricao"> 
       Sou formando em Análise e Desenvolvimento de Sistemas e estagiário de Desenvolvimento na Di2win <br/>
-      Estou nessa trilha de aprendizagem para ser um desenvolvedor a pouco tempo, mas muito entusiasmado, estou fazendo coisas que antes achava impossível, como por exemplo: criar uma arquitetura, entender padrões de projetos e fazer coisinhas se bulirem 😂 😂 😂 .
+      Sou entusiasmado com novas tecnologias, gosto de arquitetura de sistemas, padrões de projetos e fazer coisinhas se bulirem 😂 😂 😂.
       <br/><br/>
     </div>
     <div class="text-info curiosity">
       <ul>
-      <li>🔭 Atualmente, estou estagiando.</li> 
-      <li>🌱 Atualmente estou aprendendo Java, Fazendo Bootcamps e lendo PEPs do Python.</li> 
-      <li>💬 Pergunte-me sobre qualquer coisa!</li> 
-      <li>📫 Como chegar até mim: horlandojcleao.developer@gmail.com.</li>
-      <li>⚡ Curiosidades:</li> 
+        <li>🔭 Atualmente, estou estagiando.</li> 
+        <li>💬 Pergunte-me sobre qualquer coisa!</li> 
+        <li>📫 Como chegar até mim: horlandojcleao.developer@gmail.com.</li>
+        <li>⚡ Curiosidades:</li> 
       <ul>
-        <li>Gosto de 🛹 Skate street, mas parei para evitar acidentes 😂.</li>
         <li>Sou apaixonado por Cosmologia 🕳️.</li>
-        <li>Prefiro prototipar com Python (Plug and Play).</li>
-        <li>Buscando vaga de junior em fábricas de Softwares :flushed:.</li>
+        <li>Gosto de jogos de estratégia. 🕹️♟️</li>
       </ul>
-      <li>🕹️ E amo jogar:</li> 
-        <ul>
-          <li>combates aéreos ✈️ </li>
-          <li>navais 🚢</li>
-          <li>mekas 🤖</li>
-          <li>estratégia ♟️</li>
-        </ul>
     </ul>
     </div>
     <br/>
