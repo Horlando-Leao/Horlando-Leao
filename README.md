@@ -20,7 +20,7 @@
     </div>
     <div class="text-info curiosity">
       <ul>
-        <li>🔭 Atualmente, estou estagiando.</li> 
+        <li>🔭 Atualmente, estou trabalhando como desenvolvedor back-end e um pouco de front-end.</li> 
         <li>💬 Pergunte-me sobre qualquer coisa!</li> 
         <li>📫 Como chegar até mim: horlandojcleao.developer@gmail.com.</li>
         <li>⚡ Curiosidades:</li> 
