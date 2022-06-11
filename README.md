@@ -13,9 +13,11 @@
     <h2 class="text-primary">
       Me chamo Horlando e espero que esteja tudo bem com você!
     </h2>
-    <div class="text-info minha-descricao"> 
-      Sou formando em Análise e Desenvolvimento de Sistemas e Desenvolvedor na Di2win <br/>
-      Sou entusiasmado com novas tecnologias, gosto de arquitetura de sistemas, padrões de projetos e fazer coisinhas se bulirem 😂 😂 😂.
+    <div class="text-info minha-descricao">
+      Estudante em pós-graduação em Engenharia de Software (lato sensu). <br/>
+      Formando em Análise e Desenvolvimento de Sistemas. <br/>
+      Desenvolvedor na Di2win. <br/>
+      Gosto de mexer com novas tecnologias, gosto de arquitetura de sistemas, padrões de projetos e fazer coisinhas se bulirem 😂 😂 😂.
       <br/><br/>
     </div>
     <div class="text-info curiosity">
