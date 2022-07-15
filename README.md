@@ -34,7 +34,7 @@
     </ul>
     </div>
     <h2>"Pois as asas de um coração sonhador ninguém irá roubar" (Pegasus Fantasy BR)</h2>
-<!--     ![alt text](http://url/to/img.png](https://drive.google.com/file/d/1r5qM_aDPMb9b5FsyagHTU_r3OlVd8Qpl/view?usp=sharing) -->
+    ![alt text](https://github.com/[Horlando-Leao]/[Horlando-Leao]/blob/[main]/saint-seya.png?raw=true)
     <br/>
     <div class="text-info meus-repo">Tenho dois repositórios que considero os mais legais:</div>
     <table class="table table-bordered table-striped" style="top:40px;">
