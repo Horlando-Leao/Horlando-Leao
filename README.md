@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/52044729/212349273-59c6a6fa-3605-453e-bf82-cd3df3289ccd.png)
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,16 +16,14 @@
       Me chamo Horlando e espero que esteja tudo bem com você!
     </h2>
     <div class="text-info minha-descricao">
-      Estudante em pós-graduação em Engenharia de Software (lato sensu). <br/>
       Formando em Análise e Desenvolvimento de Sistemas. <br/>
-      Desenvolvedor na Di2win. <br/>
-      Gosto de mexer com novas tecnologias, gosto de arquitetura de sistemas, padrões de projetos e fazer coisinhas se bulirem 😂 😂 😂.
+      Desenvolvedor na Superlógica e PJbank. <br/>
+      Gosto de novas tecnologias, arquitetura de sistemas, padrões de projetos e fazer coisinhas se bulirem.
       <br/><br/>
     </div>
     <div class="text-info curiosity">
       <ul>
-        <li>🔭 Atualmente, estou trabalhando como desenvolvedor back-end e um pouco de front-end.</li> 
-        <li>💬 Pergunte-me sobre qualquer coisa!</li> 
+        <li>🔭 Atualmente, estou trabalhando como desenvolvedor back-end.</li>
         <li>📫 Como chegar até mim: horlandojcleao.developer@gmail.com.</li>
         <li>⚡ Curiosidades:</li> 
       <ul>
@@ -34,6 +34,7 @@
     </ul>
     </div>
     <h2>"Pois as asas de um coração sonhador ninguém irá roubar" (Pegasus Fantasy BR)</h2>
+
     <br/>
     <div class="text-info meus-repo">Tenho dois repositórios que considero os mais legais:</div>
     <table class="table table-bordered table-striped" style="top:40px;">
