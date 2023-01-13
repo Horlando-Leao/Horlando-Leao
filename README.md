@@ -31,10 +31,9 @@
         <li>Gosto de jogos de estratégia. 🕹️♟️</li>
         <li>Maratonar Anime e ficção ciêntifica. 🕹️♟️</li>
       </ul>
-    </ul>
     </div>
-    <h2>"Pois as asas de um coração sonhador ninguém irá roubar" (Pegasus Fantasy BR)</h2>
-
+      
+   <div>
     <br/>
     <div class="text-info meus-repo">Tenho dois repositórios que considero os mais legais:</div>
     <table class="table table-bordered table-striped" style="top:40px;">
