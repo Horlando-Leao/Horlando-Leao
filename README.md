@@ -34,30 +34,6 @@
     </div>
       
    <div>
-    <br/>
-    <div class="text-info meus-repo">Tenho dois repositórios que considero os mais legais:</div>
-    <table class="table table-bordered table-striped" style="top:40px;">
-        <thead>
-        <tr>
-          <th>Repositório</th>
-          <th>Descrição</th>
-          <th>Motivação</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="https://github.com/Horlando-Leao/scene_identification">Indentificador de Cenas</a> </td>
-          <td>Identificar através de imagens possíveis armas e atividades suspeitas de criminosos.</td>
-          <td>Esse projeto consiste em Processamento de Imagens com OpenCV e comunicação remota com IoT e AWS, não tive tempo de finalizar, espero encontrar tempo para terminar, aprendi os conceitos e aplicações de processamento de imagens, tratamento das imagens, treinamento para gerar haar cascades, além de tratamento de end-points.</td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/Horlando-Leao/geradorRelatorioInteligente ">Gerador Relatório Inteligente</a> </td>
-          <td>O intuito disso é facilitar o trabalho de TI, tirando um pouco da tarefa repetida de muitas empresas e agilizar a entrega para área de negócios</td>
-          <td>Esse é outro projeto que acho bem legal, ele basicamente é um problema de PLN, em que tento converter a linguagem natural do Português para linguagem de sintaxe SQL. Então nesse backend tem uma pequena inteligência que consegue identificar qual a intenção do usuário e parâmetros na intenção, e com o tempo essa mesma inteligência aprende gerar novos relatórios, fiz um backend básico com resposta REST, não consegui finalizar, só 2 semanas livres para fazer, mas acho legal e pretendo terminar.</td>
-        </tr>
-      </tbody>
-    </table>
-    </div>
     
   </body>
 </html>
