@@ -18,7 +18,7 @@
     <div class="text-info minha-descricao">
       Formando em Análise e Desenvolvimento de Sistemas. <br/>
       Desenvolvedor na Superlógica e PJbank. <br/>
-      Gosto de novas tecnologias, arquitetura de sistemas, padrões de projetos e fazer coisinhas se bulirem.
+      Gosto de novas tecnologias, arquitetura de sistemas, padrões de projetos.
       <br/><br/>
     </div>
     <div class="text-info curiosity">
