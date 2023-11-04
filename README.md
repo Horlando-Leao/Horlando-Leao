@@ -17,21 +17,13 @@
       Me chamo Horlando e espero que esteja tudo bem com você!
     </h2>
     <div class="text-info minha-descricao">
-      Formando em Análise e Desenvolvimento de Sistemas. <br/>
-      Desenvolvedor na Superlógica e PJbank. <br/>
-      Gosto de novas tecnologias, arquitetura de sistemas, padrões de projetos.
-      <br/><br/>
+      Breve descrição sobre mim:
+      Sou formando em Análise e Desenvolvimento de Sistemas. Atualmente Desenvolvedor na Superlógica Tecnologias e na PJbank, além disso, também gosto de padrões de projetos e IA.<br/><br/>
     </div>
     <div class="text-info curiosity">
       <ul>
-        <li>🔭 Atualmente, estou trabalhando como desenvolvedor back-end com as tecnologias express.js, symfony, flask, fastAPI, AWS, Terraform e outras.</li>
+        <li>🔭 No momento, estou trabalhando como desenvolvedor back-end com as tecnologias express.js, symfony, flask, fastAPI, AWS, Terraform e outras.</li>
         <li>📫 Como chegar até mim: horlandojcleao.developer@gmail.com.</li>
-        <li>⚡ Curiosidades:</li> 
-      <ul>
-        <li>Sou apaixonado por Cosmologia 🕳️.</li>
-        <li>Gosto de jogos de estratégia. 🕹️♟️</li>
-        <li>Maratonar Anime e ficção ciêntifica. 🕹️♟️</li>
-      </ul>
     </div>
       
    <div>
