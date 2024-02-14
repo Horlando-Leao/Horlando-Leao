@@ -1,4 +1,5 @@
-![image](https://github.com/Horlando-Leao/Horlando-Leao/assets/52044729/9ac37211-2c7a-4fc4-aded-01da8ed06614)
+![back-star_Easy-Resize com](https://github.com/Horlando-Leao/Horlando-Leao/assets/52044729/711fefe6-5b22-4e00-b620-a38cc2343fc4)
+
 
 
 <!DOCTYPE html>
