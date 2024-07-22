@@ -18,7 +18,6 @@
       Me chamo Horlando e espero que esteja tudo bem com você!
     </h2>
     <div class="text-info minha-descricao">
-      Breve descrição sobre mim:
       Sou formando em Análise e Desenvolvimento de Sistemas. Atualmente Desenvolvedor na Superlógica Tecnologias e na PJbank, além disso, também gosto de padrões de projetos e IA.<br/><br/>
     </div>
     <div class="text-info curiosity">
