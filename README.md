@@ -22,7 +22,7 @@
     </div>
     <div class="text-info curiosity">
       <ul>
-        <li>🔭 No momento, estou trabalhando como desenvolvedor back-end com as tecnologias express.js, symfony, flask, fastAPI, AWS, Terraform e outras.</li>
+        <li>🔭 No momento, estou trabalhando como desenvolvedor back-end com várias tecnologias</li>
         <li>📫 Como chegar até mim: horlandojcleao.developer@gmail.com.</li>
     </div>
       
