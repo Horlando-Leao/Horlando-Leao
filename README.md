@@ -116,8 +116,8 @@ Sou desenvolvedor back-end com experiência em:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-horlandoleao8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:horlandoleao8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-horlando--portfolio.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://horlando-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Horlando%20Leão-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/horlando-leao)
+[![Portfolio](https://img.shields.io/badge/Portfolio-horlando--portfolio.netlify.app-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://novateklion.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Horlando%20Leão-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/horlandojcleao)
 [![GitHub](https://img.shields.io/badge/GitHub-@Horlando--Leao-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Horlando-Leao)
 
 </div>
