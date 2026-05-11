@@ -127,14 +127,6 @@ Sou desenvolvedor back-end com experiência nas seguintes empresas:
 
 ---
 
-## 🔥 Atualmente Trabalhando Em
-
-- 🤖 **Agentes de IA** - Desenvolvimento de sistemas autônomos inteligentes
-- 🏗️ **Clean Architecture** - Implementação de padrões sólidos em produção
-- 🚀 **Microsserviços** - Escalabilidade e resiliência
-
----
-
 ## 📈 Vamos Criar Algo Incrível Juntos!
 
 > "A programação não é apenas escrever código. É sobre resolver problemas, criar experiências e fazer a diferença."
