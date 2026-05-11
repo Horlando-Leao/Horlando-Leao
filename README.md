@@ -8,17 +8,18 @@ Sou **Horlando Leão**, desenvolvedor **Back-End** apaixonado por criar soluçõ
 
 ## 🎯 Sobre Mim
 
-Sou desenvolvedor back-end com experiência em:
-- ✨ **Superlógica Tecnologias** - Desenvolvimento de soluções empresariais
-- 🏦 **PJbank** - Sistemas de pagamento e integrações financeiras
-- 🏠 **Trabalho em casa** - Focado em produtividade e qualidade
+Sou desenvolvedor back-end com experiência nas seguintes empresas:
+- ✨ **Superlógica Tecnologias** - Desenvolvimento de soluções empresariais no mercado condominial
+- 🏦 **PJbank** - Pesquisa e Desenvolvimento de soluções para apoiar outros produtos nos times.
+- 🤖 **Di2win** - Desenvolvimento Soluções com inteligencia artificial para automatizar processos.
+- 🏦 **Copergás** - Manter e construir sistemas para administrar ativos da empresa, licenças, contratos, projetos e regras de cobranças.
+- 🏠 **Trabalho em casa** - Focado em produtividade, qualidade de vida e aprimoramento.
 
 **Interesses principais:**
-- 🏗️ **Arquitetura de Software** - Clean Architecture, DDD, Hexagonal Architecture
+- 🏗️ **Arquitetura de Software** - Clean Architecture, DDD, Design Patterns
 - 🤖 **Inteligência Artificial & IA Generativa** - Modelos preditivos e automação
-- 🔌 **Padrões de Projetos** - SOLID, Design Patterns, Best Practices
-- 🚀 **Microsserviços** - Escalabilidade e performance
-- 🔄 **Automação de Processos** - N8N, Workflows e Integrações
+- 🚀 **Computação na nuvem** - Escalabilidade, performance e manutenção de sistemas
+- 🔄 **Computação quântica** - Estudando...
 
 ---
 
