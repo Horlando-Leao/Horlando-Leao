@@ -2,8 +2,7 @@
 
 # 👋 Olá, visitante! Bem-vindo!
 
-Sou **Horlando Leão**, desenvolvedor **Back-End** apaixonado por criar soluções robustas, escaláveis e inovadoras. Com formação em **Análise e Desenvolvimento de Sistemas**,  atuo no desenvolvimento de **arquiteturas modernas** e **integrações complexas**.
-
+Sou **Horlando Leão**, desenvolvedor **Back-End** e especializado na **Cloud da AWS**, com formação em **Análise e Desenvolvimento de Sistemas** e apaixonado **inovação**.
 ---
 
 ## 🎯 Sobre Mim
