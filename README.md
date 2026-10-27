@@ -32,11 +32,11 @@ Com formação em **Análise e Desenvolvimento de Sistemas** e especialização 
 
 ### **Superlógica Tecnologias — Engenharia Cross (IA & Arquitetura)**
 Atuação estratégica e técnica na arquitetura, desenvolvimento e sustentação de sistemas de IA generativa de larga escala e microsserviços:
-- 🤖 **Orquestrador de Agentes de IA (Gruvi Assist / Concierge):** Arquitetura conversacional baseada em **LangGraph** integrado ao **Gemini 2.5 Flash (Google Cloud Vertex AI)** e à API do WhatsApp Business, atendendo moradores de condomínios em todo o Brasil.
+- 🤖 **Orquestrador de Agentes de IA (Gruvi Assist):** Arquitetura conversacional baseada em **LangGraph** integrado ao **Gemini 2.5 Flash (Google Cloud Vertex AI)** e à API do WhatsApp Business, atendendo moradores de condomínios em todo o Brasil.
 - 🔍 **Observabilidade & LLMOps (Langfuse):** Implementação de tracing ponta a ponta (self-hosted em Docker e Cloud via Vault) com propagação de contexto multi-tenant via `AsyncLocalStorage` (CLS) para auditoria detalhada de latência, tokens e custos por interação.
 - 📚 **RAG Multi-Formato & Base de Conhecimento:** Pipeline de indexação semântica e recuperação de informações em `.pdf`, `.docx`, `.md` e `.txt` com guardrails e filtros de permissão.
 - 💳 **Tools Transacionais via IA:** Ações seguras de agentes para consulta e envio automático de **segunda via de boletos em PDF via WhatsApp**, liberação de visitantes e transbordo para atendimento humano.
-- 🏗️ **BFFs, CI/CD e Infraestrutura:** Desenvolvimento de BFFs em **NestJS/Fastify**, geração de OpenAPI 3.0 automatizada via DTOs, automação de migrações TypeORM (up/down) no GitHub Actions e runtime atualizado para **Node.js 24**.
+- 🏗️ **BFFs, CI/CD e Infraestrutura:** Desenvolvimento do **BFF do Gruvi** e do **Front do Gruvi (Multifrontend)** em **NestJS/Fastify**, contratos na **Plataforma Nexus**, automação de migrações TypeORM (up/down) no GitHub Actions e runtime atualizado para **Node.js 24**.
 
 ---
 
